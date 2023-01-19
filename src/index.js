@@ -12,7 +12,7 @@ const App = () => {
           <SingleComment
             name="Carl Adams"
             date="Today at 5:00PM"
-            comment="i heard he died from ligma?"
+            comment="Hi guys! wecome to my dismord"
             pic="https://randomuser.me/api/portraits/men/15.jpg"
           />
         </UserCard>
@@ -20,7 +20,7 @@ const App = () => {
           <SingleComment
             name="Catherine Fernandez"
             date="Today at 6:00PM"
-            comment="what is ligma"
+            comment="Hi Carl thanks for the invite!"
             pic="https://randomuser.me/api/portraits/women/15.jpg"
           />
         </UserCard>
@@ -28,7 +28,7 @@ const App = () => {
           <SingleComment
             name="Benjamin Garaham"
             date="Today at 7:00PM"
-            comment="joe mama"
+            comment="Hi This site is cool!"
             pic="https://randomuser.me/api/portraits/men/51.jpg"
           />
         </UserCard>
